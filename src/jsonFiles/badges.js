@@ -3,7 +3,7 @@ import days from '../assets/30Days.jpg';
 import codeQuest from '../assets/CodeQuest1.jpg';
 import git from '../assets/Git.jpg';
 import blockchain from '../assets/blockchain.jpg';
-import cisco from 'src\assets\Intro to CyberSec.jpg';
+import cisco from '../assets/Intro to CyberSec.jpg';
 
 const badges=[
     {
